@@ -1,0 +1,2 @@
+arm-none-eabi-gcc.exe -T generic-hosted.ld -o int2float int2float.S
+arm-none-eabi-run int2float 1995
